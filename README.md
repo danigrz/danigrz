@@ -20,17 +20,22 @@ I’m a passionate **Senior Developer** currently working at Compay, with experi
 Here’s a quick overview of the tech I use:
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+
+
 
 ---
 
